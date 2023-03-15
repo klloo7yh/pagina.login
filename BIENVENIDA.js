@@ -1,0 +1,2 @@
+alert("!!!BIENVENIDO!!!");
+alert("!!!ALMACEN!!");
